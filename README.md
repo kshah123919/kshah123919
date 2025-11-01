@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Krish Rajesh Shah</h1>
 <h3 align="center">💻 Computer Engineering Student </h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kshah123919&label=Profile%20Views&color=0e75b6&style=flat" alt="kshah123919" />
+</p>
+
 ---
 
 ### 🚀 About Me
 🌟 I love solving coding challenges and building meaningful projects<br>
 🎯 I enjoy exploring new technologies and improving my problem-solving skills<br>
 ⚡ Fun fact: I believe small consistent progress leads to big achievements!<br>
-
 
 ---
 
@@ -46,9 +49,3 @@
 </p>
 
 ---
-
-
-
----
-
-⭐ **“Keep learning, keep building, keep growing.”**
