@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-🌟 I love solving coding challenges and building meaningful projects<br
+🌟 I love solving coding challenges and building meaningful projects<br>
 🎯 I enjoy exploring new technologies and improving my problem-solving skills<br>
 ⚡ Fun fact: I believe small consistent progress leads to big achievements!<br>
 
