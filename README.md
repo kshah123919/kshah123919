@@ -43,10 +43,9 @@
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.demolab.com/?username=kshah123919&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=kshah123919&theme=radical&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
+
 
 ---
 ⭐ **“Code. Learn. Repeat.”**  
