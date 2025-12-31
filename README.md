@@ -21,12 +21,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshah123919&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshah123919&layout=compact)
 
 ---
 
@@ -35,9 +29,5 @@
 
 ---
 
-## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kshah123919)
-
----
 
 ⭐ **Code. Learn. Repeat.**
