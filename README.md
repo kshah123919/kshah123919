@@ -22,12 +22,6 @@ I am a passionate and self-motivated developer with a strong interest in softwar
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/kshah123919" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-<a href="https://www.github.com/kshah123919" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kshah123919?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
 
 <b>My GitHub Stats</b>
 
