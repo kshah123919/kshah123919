@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:EC4899&height=250&section=header&text=Hi%20There,%20I'm%20Krish%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Open%20Source%20Contributor%20•%20Problem%20Solver%20•%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Impactful+Software+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%8D;Full+Stack+Developer+%F0%9F%92%BB;Exploring+Generative+AI+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Impactful+Software+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%8D;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
 
 <br>
 
@@ -20,6 +20,7 @@
 <img align="right" width="260" src="https://raw.githubusercontent.com/aditya-fyi/aditya-fyi/master/gifs/Coding.gif">
 
 <table>
+<tr><td width="30%"><b>📍 Location</b></td><td>India</td></tr>
 <tr><td><b>🎓 Education</b></td><td>B.Tech, Computer Engineering</td></tr>
 <tr><td><b>💼 Role</b></td><td>Full Stack Developer</td></tr>
 <tr><td><b>🎯 Focus</b></td><td>Open Source · Problem Solving · Modern Web Development</td></tr>
@@ -68,9 +69,9 @@
 
 <div align="center">
 
-| 🌍 | 🤖 | 💡 | 🤝 |
-|:---:|:---:|:---:|:---:|
-| **Open Source**<br>Contributing to real-world projects | **Generative AI**<br>Diving deeper into the field | **Clean Code**<br>Writing maintainable software | **Collaboration**<br>Solving problems with others |
+| 🌍 | 💡 | 🤝 |
+|:---:|:---:|:---:|
+| **Open Source**<br>Contributing to real-world projects | **Clean Code**<br>Writing maintainable software | **Collaboration**<br>Solving problems with others |
 
 </div>
 
@@ -106,16 +107,16 @@ A modern developer dashboard to organize coding sessions, projects, and producti
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kshah123919&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kshah123919&theme=tokyonight&hide_border=true&background=00000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kshah123919&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kshah123919&theme=default&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kshah123919&theme=tokyo-night&hide_border=true&bg_color=00000000" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kshah123919&theme=minimal&hide_border=true&bg_color=ffffff&color=3B82F6&line=8B5CF6&point=EC4899" width="95%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshah123919&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshah123919&layout=compact&theme=default&hide_border=true"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" width="100%"/>
@@ -130,6 +131,9 @@ A modern developer dashboard to organize coding sessions, projects, and producti
   It auto-generates the SVG referenced below.
 -->
 <img src="https://raw.githubusercontent.com/kshah123919/kshah123919/output/github-contribution-grid-snake.svg" width="100%"/>
+<!-- This "github-contribution-grid-snake.svg" (not the "-dark" version) uses GitHub's light palette, which shows up correctly on a white background -->
+
+
 
 </div>
 
@@ -138,11 +142,26 @@ A modern developer dashboard to organize coding sessions, projects, and producti
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kshah123919&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kshah123919&theme=flat&no-frame=true&margin-w=10&row=1"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" width="100%"/>
 
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR-EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://twitter.com/YOUR-TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+</div>
 
 <br>
 
