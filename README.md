@@ -20,7 +20,6 @@
 <img align="right" width="260" src="https://raw.githubusercontent.com/aditya-fyi/aditya-fyi/master/gifs/Coding.gif">
 
 <table>
-<tr><td width="30%"><b>📍 Location</b></td><td>India</td></tr>
 <tr><td><b>🎓 Education</b></td><td>B.Tech, Computer Engineering</td></tr>
 <tr><td><b>💼 Role</b></td><td>Full Stack Developer</td></tr>
 <tr><td><b>🎯 Focus</b></td><td>Open Source · Problem Solving · Modern Web Development</td></tr>
@@ -139,29 +138,6 @@ A modern developer dashboard to organize coding sessions, projects, and producti
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" width="100%"/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kshah123919&theme=flat&no-frame=true&margin-w=10&row=1"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" width="100%"/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://twitter.com/YOUR-TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-</div>
 
 <br>
 
