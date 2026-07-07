@@ -103,22 +103,6 @@ A modern developer dashboard to organize coding sessions, projects, and producti
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" width="100%"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kshah123919&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kshah123919&theme=default&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kshah123919&theme=minimal&hide_border=true&bg_color=ffffff&color=3B82F6&line=8B5CF6&point=EC4899" width="95%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshah123919&layout=compact&theme=default&hide_border=true"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient" width="100%"/>
 
 ## 🌐 3D Contribution Graph
 
