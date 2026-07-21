@@ -94,7 +94,8 @@ AI-powered productivity companion that helps users plan, prioritize, and complet
 ### 📊 Dev Dashboard
 A modern developer dashboard to organize coding sessions, projects, and productivity — all in one place.
 
-<img src="https://img.shields.io/badge/Web-App-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Responsive-Mobile%20%26%20Desktop-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
 
 </td>
 </tr>
